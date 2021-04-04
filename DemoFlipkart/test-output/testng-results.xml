@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing method LaunchBrowser]]>
+    </line>
+    <line>
+      <![CDATA[Executing method launchBrowser]]>
+    </line>
+    <line>
+      <![CDATA[Executing method processItemPurchase]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[From (checkVisibilityOfElement) Sorry, Because I received an exception while trying to click on element 'Cart', I cannot continue.<br>The system returned: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Cart'] (tried for 20 second(s) with 500 milliseconds interval)]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method fillScreen]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method fillScreen]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method fillScreen]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method fillScreen]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkEnabilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkEnabilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method clickOnElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[From (checkVisibilityOfElement) Sorry, Because I received an exception while trying to click on element 'Continue', I cannot continue.<br>The system returned: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@id='to-payment']/button (tried for 20 second(s) with 500 milliseconds interval)]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[From (checkVisibilityOfElement) Sorry, Because I received an exception while trying to click on element 'NetBanking', I cannot continue.<br>The system returned: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[text()='Net Banking'] (tried for 20 second(s) with 500 milliseconds interval)]]>
+    </line>
+    <line>
+      <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+    </line>
+    <line>
+      <![CDATA[Executing method closeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="117689" started-at="2021-04-04T06:03:14Z" finished-at="2021-04-04T06:05:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="117689" started-at="2021-04-04T06:03:14Z" finished-at="2021-04-04T06:05:12Z">
+      <class name="testscripts.Test_Purchase">
+        <test-method status="PASS" signature="LaunchBrowser(java.lang.String)[pri:0, instance:testscripts.Test_Purchase@5056dfcb]" name="LaunchBrowser" is-config="true" duration-ms="13542" started-at="2021-04-04T11:33:14Z" finished-at="2021-04-04T11:33:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Executing method LaunchBrowser]]>
+            </line>
+            <line>
+              <![CDATA[Executing method launchBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="processItemPurchase()[pri:0, instance:testscripts.Test_Purchase@5056dfcb]" name="processItemPurchase" duration-ms="103135" started-at="2021-04-04T11:33:28Z" finished-at="2021-04-04T11:35:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing method processItemPurchase]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[From (checkVisibilityOfElement) Sorry, Because I received an exception while trying to click on element 'Cart', I cannot continue.<br>The system returned: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Cart'] (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method fillScreen]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method fillScreen]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method fillScreen]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method fillScreen]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkEnabilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkEnabilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method clickOnElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[From (checkVisibilityOfElement) Sorry, Because I received an exception while trying to click on element 'Continue', I cannot continue.<br>The system returned: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@id='to-payment']/button (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[Executing method checkVisibilityOfElement]]>
+            </line>
+            <line>
+              <![CDATA[From (checkVisibilityOfElement) Sorry, Because I received an exception while trying to click on element 'NetBanking', I cannot continue.<br>The system returned: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[text()='Net Banking'] (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </line>
+            <line>
+              <![CDATA[Completing execution of method checkVisibilityOfElement]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- processItemPurchase -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testscripts.Test_Purchase@5056dfcb]" name="closeBrowser" is-config="true" duration-ms="997" started-at="2021-04-04T11:35:11Z" finished-at="2021-04-04T11:35:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing method closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testscripts.Test_Purchase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
